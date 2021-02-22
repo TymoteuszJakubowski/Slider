@@ -1,0 +1,14 @@
+body {
+    margin: 0;
+}
+.splide {
+    margin: auto;
+    width: 1024px;
+}
+.splide__track{
+    display: flex;
+    text-align: center;  
+}
+img {
+    height: 768px;
+}
